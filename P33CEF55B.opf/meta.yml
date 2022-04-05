@@ -1,0 +1,31 @@
+id: P33CEF55B
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1KG475
+  instance_id: http://purl.bdrc.io/resource/IE1KG475
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    zh-hans:
+    - 藏族民间棋艺
+    bo:
+    - བོད་ཀྱི་དམངས་ཁྲོད་མིག་མངས་སྒྱུ་རྩལ།
+  alt_title: {}
+  author: None
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    3f9d1301018a48e09b76ae19cc74fcba:
+      title: པོད ༡་བོད་ཀྱི་དམངས་ཁྲོད་མིག་མངས་སྒྱུ་རྩལ
+      volume_number: 1
+      base_file: UT1KG475_I1KG480_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC172C85C73330E4B
+      image_group: I1KG480
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/W1KG475
+  - http://purl.bdrc.io/resource/MW1KG475
+  ocr_software: Namsel
+created_at: '2021-12-22T10:43:00.625844'
+last_modified_at: '2021-12-22T10:43:00.625851'
